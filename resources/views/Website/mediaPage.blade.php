@@ -31,161 +31,156 @@
         <div class="auto-container">
             <div class="row">
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-4.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">In Good Taste: Mark Finlay Architects & Interiors.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">New Laws on Children Adoption.</a></h3>
+                            <ul class="info">
+                                <li>06 January 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-5.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">The Lexury Apartment of sepcial interiors.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">The Company Registration Act.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-6.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">6 Easy Ways to Create a Backyard Paradise.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">Advantages of Resolving Cases out of Court.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- News Block -->
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
+                        </div>
+                        <div class="caption-box">
+                            <h3><a href="#">New Laws on Children Adoption.</a></h3>
+                            <ul class="info">
+                                <li>06 January 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-7.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">The Business metting room interior in the rank.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">The Company Registration Act.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-12.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">In Good Taste: Mark Finlay Architects & Interiors.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">Advantages of Resolving Cases out of Court.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- News Block -->
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
+                        </div>
+                        <div class="caption-box">
+                            <h3><a href="#">New Laws on Children Adoption.</a></h3>
+                            <ul class="info">
+                                <li>06 January 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-13.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">The Lexury Apartment of sepcial interiors.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">The Company Registration Act.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
                 <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-14.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
                         <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">6 Easy Ways to Create a Backyard Paradise.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- News Block -->
-                <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><img src="website/images/resource/news-15.jpg" alt=""></figure>
-                            <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
-                        </div>
-                        <div class="caption-box">
-                            <div class="inner">
-                                <h3><a href="blog-detail.html">The Business metting room interior in the rank.</a></h3>
-                                <ul class="info">
-                                    <li>06 June 2018,</li>
-                                    <li><a href="blog-detail-2.html">John Smith</a></li>
-                                    <li><a href="blog-detail-2.html">3 Commets</a></li>
-                                </ul>
-                            </div>
+                            <h3><a href="#">Advantages of Resolving Cases out of Court.</a></h3>
+                            <ul class="info">
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
