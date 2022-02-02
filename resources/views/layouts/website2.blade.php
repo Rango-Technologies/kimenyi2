@@ -58,7 +58,7 @@
             <div class="auto-container">
                 <div class="main-box clearfix">
                     <div class="logo-box">
-                        <div class="logo"><a href="#"><img src="website/images/advoc.png" alt="" title=""></a></div>
+                        <div class="logo"><a href="{{url('/')}}"><img src="website/images/advoc.png" alt="" title=""></a></div>
                     </div>
 
                     <div class="nav-outer clearfix">

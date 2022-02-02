@@ -18,7 +18,7 @@
                         <div class="inner-box">
                             <h2>Conveyancing</h2>
                             <div class="text">In law, conveyancing is the transfer of legal title to (of) real property from one person to another, or the granting of an encumbrance such as a mortgage or a lien.</div>
-                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
+                            <div class="link-box"><a class="text-white" href="{{route('conveyancing')}}">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -31,7 +31,7 @@
                         <div class="inner-box">
                             <h2>Dispute Resolution</h2>
                             <div class="text">Dispute resolution or dispute settlement is the process of resolving disputes between parties.</div>
-                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
+                            <div class="link-box"><a class="text-white" href="{{route('dispute-resolution')}}">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -44,7 +44,7 @@
                         <div class="inner-box">
                             <h2>Family Law</h2>
                             <div class="text">Family law is a legal practice area that focuses on issues involving family relationships such as marriage, adoption, divorce, and child custody, among others. </div>
-                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
+                            <div class="link-box"><a class="text-white" href="{{route('family-law')}}">Learn More</a></div>
                         </div>
                     </div>
                 </div>
