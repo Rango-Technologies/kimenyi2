@@ -14,8 +14,8 @@
 <!--Color Themes-->
 <link id="theme-color-file" href="{{asset('website/css/color-themes/teal-theme.css')}}" rel="stylesheet">
 
-<link rel="shortcut icon" href="{{asset('website/images/favicon.png')}}" type="image/x-icon">
-<link rel="icon" href="{{asset('website/images/favicon.png')}}" type="image/x-icon">
+<link rel="shortcut icon" href="{{asset('website/images/resource/b.png')}}" type="image/x-icon">
+<link rel="icon" href="{{asset('website/images/resource/b.png')}}" type="image/x-icon">
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -38,7 +38,7 @@
                 <div class="inner-container clearfix">
                     <div class="top-left">
                         <ul class="contact-list clearfix">
-                            <li><i class="fa fa-envelope"></i><a href="#">Supportyou@Interiores.com</a></li>
+                            <li><i class="fa fa-envelope"></i><a class="text-white" href="#">kimenyiadvocates@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
@@ -46,7 +46,7 @@
                     </div>
                     <div class="top-right">
                         <ul class="social-icon-four clearfix">
-                            <li><span class="text-white"><i class="fa fa-volume-control-phone"></i> +254 789000000</span> </li>
+                            <li><span class="text-white"><i class="fa fa-phone"></i> +254 725 610 155 </span> </li>
                         </ul>
                     </div>
                 </div>
@@ -151,52 +151,7 @@
     
     @yield('content')
 
-    <!-- Offer Section -->
-    <section class="offer-section" style="background-image: url(website/images/background/6.jpg);">
-        <div class="auto-container">
-            <div class="row">
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <h2><span>Contact Us</h2>
-                        
-                        <div class="text">Fill out the form below<br> and we will get intouch with you</div>
-                    </div>
-                </div> 
-
-                <div class="form-column order-last col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="discount-form">
-                            <!--Comment Form-->
-                            <form method="post" action="#">
-                                <div class="row">
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="username" placeholder="Name" required>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="email" name="email" placeholder="Email" required>
-                                    </div>
-
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <input type="text" name="phone" placeholder="Phone" required>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                        <textarea name="message" placeholder="Massage"></textarea>
-                                    </div>
-                                    
-                                    <div class="col-lg-12 col-md-12 col-sm-12 form-group text-center">
-                                        <button class="theme-btn btn-style-one" type="submit" name="submit-form">send Now</button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div> 
-            </div>
-        </div>
-    </section>
-    <!--End Offer Section -->
+ 
     <!-- Main Footer -->
     <footer class="main-footer" style="background-image: url(images/background/5.jpg);">
         <div class="auto-container">
@@ -204,28 +159,34 @@
             <div class="widgets-section">
                 <div class="row">
                     <!--Big Column-->
-                    <div class="big-column col-xl-7 col-lg-12 col-md-12 col-sm-12">
+                    <div class="big-column col-xl-9 col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
                             <!--Footer Column-->
-                            <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                            <div class="footer-column col-xl-7 col-lg-7 col-md-6 col-sm-12">
                                 <div class="footer-widget about-widget">
                                     <div class="text-white" style="border-bottom: 2px solid orange">
                                         <h2>Kimenyi & Company Advocates</h2>
                                     </div>
-                                    <div class="widget-content">
-                                        <div class="text">Ms. Kimenyi is the proprietor of the firm with over 14 years legal practice experience in Kenya having been trained both in India and Kenya. She has vast experience in Corporate Commercial law, Conveyancing, (Alternative) Dispute Resolution and Family Law.</div>
+                                    <div class="text-white">
+                                        <br>
+                                        <h5>SUITE 207, 2ND FLOOR, </h5>
+                                        <h5  class="pt-2">VINODEEP TOWERS, </h5>
+                                        <h5  class="pt-2">BARICHO ROAD, </h5>
+                                        <h5  class="pt-2">P. O. BOX NO. 45229,</h5>
+                                        <h5  class="pt-2">00100 - NAIROBI.</h5>
+                                        
                                     </div>
                                 </div>
                             </div>
                             
                             <!--Footer Column-->
-                            <div class="footer-column col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                            <div class="footer-column col-xl-5 col-lg-5 col-md-6 col-sm-12">
                                 <div class="footer-widget recent-posts">
                                     <h2 class="widget-title">Recent Posts</h2>
                                      <!--Footer Column-->
                                     <div class="widget-content">
                                         <div class="post">
-                                            <div class="thumb"><a href="blog-detail.html"><img src="{{asset('/website/images/resource/post-thumb-1.jpg')}}" alt=""></a></div>
+                                            <div class="thumb"><a href="#"><img src="{{asset('/website/images/resource/news-thumb.jpg')}}" alt=""></a></div>
                                             <h4><a href="#">Criminal Law Article</a></h4>
                                             <ul class="info">
                                                 <li>26 Aug</li>
@@ -233,7 +194,7 @@
                                         </div>
 
                                         <div class="post">
-                                            <div class="thumb"><a href="blog-detail.html"><img src="{{asset('/website/images/resource/post-thumb-2.jpg')}}" alt=""></a></div>
+                                            <div class="thumb"><a href="#"><img src="{{asset('/website/images/resource/news-thumb.jpg')}}" alt=""></a></div>
                                             <h4><a href="#">Family Law Article</a></h4>
                                             <ul class="info">
                                                 <li>26 Aug</li>
@@ -246,27 +207,13 @@
                     </div>
                     
                     <!--Big Column-->
-                    <div class="big-column col-xl-5 col-lg-12 col-md-12 col-sm-12">
+                    <div class="big-column col-xl-3 col-lg-12 col-md-12 col-sm-12">
                         <div class="row clearfix">
-                            <div class="footer-column col-xl-5 col-lg-6 col-md-6 col-sm-12">
-                                 <div class="footer-widget links-widget">
-                                    <h2 class="widget-title">Useful links</h2>
-                                    <div class="widget-content">
-                                        <ul class="list">
-                                            <li><a href="#">About</a></li>
-                                            <li><a href="#">Services</a></li>
-                                            <li><a href="#">Project</a></li>
-                                            <li><a href="#">News</a></li>
-                                            <li><a href="{{route('login')}}">Our Portal</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
 
                             <!--Footer Column-->
                             <div class="footer-column col-xl-7 col-lg-6 col-md-6 col-sm-12">
                                 <div class="footer-widget links-widget">
-                                    <h2 class="widget-title">Contact Details</h2>
+                                    <h2 class="widget-title">Useful links</h2>
                                     <div class="widget-content">
                                         <ul class="list">
                                             <li><a href="about.html">About</a></li>
@@ -290,16 +237,13 @@
                 <div class="inner-container clearfix">
                     <div class="social-links">
                         <ul class="social-icon-two">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
                     </div>
                     
                     <div class="copyright-text">
-                       <a href="#" target="_blank"> <b>Copyright &copy; <script>document.write(new Date().getFullYear())</script>  Kimenyi & Advocates Company</b> </a>
+                       <a href="#" target="_blank"> <b>&copy; <script>document.write(new Date().getFullYear())</script>  Kimenyi & Advocates Company</b> </a>
                     </div>
                 </div>
             </div>

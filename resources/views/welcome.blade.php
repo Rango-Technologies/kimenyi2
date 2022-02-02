@@ -16,10 +16,9 @@
                 <div class="auto-container">
                     <div class="content-box clearfix">
                         <div class="inner-box">
-                            <h4 class="title">We Do</h4>
                             <h2>Conveyancing</h2>
-                            <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium totam reprehenderit dolore. Hic rem doloremque atque animi, ab esse vero modi est neque veniam laudantium alias reprehenderit voluptatibus expedita! Nesciunt..</div>
-                            <div class="link-box"><a href="about.html">View Details</a></div>
+                            <div class="text">In law, conveyancing is the transfer of legal title to (of) real property from one person to another, or the granting of an encumbrance such as a mortgage or a lien.</div>
+                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -30,10 +29,9 @@
                 <div class="auto-container">
                     <div class="content-box clearfix">
                         <div class="inner-box">
-                            <h4 class="title">We Do</h4>
                             <h2>Dispute Resolution</h2>
-                            <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium totam reprehenderit dolore. Hic rem doloremque atque animi, ab esse vero modi est neque veniam laudantium alias reprehenderit voluptatibus expedita! Nesciunt..</div>
-                            <div class="link-box"><a href="about.html">View Details</a></div>
+                            <div class="text">Dispute resolution or dispute settlement is the process of resolving disputes between parties.</div>
+                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -44,10 +42,9 @@
                 <div class="auto-container">
                     <div class="content-box clearfix">
                         <div class="inner-box">
-                            <h4 class="title">We Do</h4>
                             <h2>Family Law</h2>
-                            <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium totam reprehenderit dolore. Hic rem doloremque atque animi, ab esse vero modi est neque veniam laudantium alias reprehenderit voluptatibus expedita! Nesciunt..</div>
-                            <div class="link-box"><a href="about.html">View Details</a></div>
+                            <div class="text">Family law is a legal practice area that focuses on issues involving family relationships such as marriage, adoption, divorce, and child custody, among others. </div>
+                            <div class="link-box"><a class="text-white" href="#">Learn More</a></div>
                         </div>
                     </div>
                 </div>
@@ -58,10 +55,9 @@
             <div class="auto-container">
                 <div class="outer-box clearfix">
                     <ul class="social-links clearfix">
-                        <li><a href="#"><span class="fa fa-facebook"></span> Facebook</a></li>
+                        <li><a href="#"><span class="fa fa-linkedin"></span> Linkedin</a></li>
                         <li><a href="#"><span class="fa fa-twitter"></span> Twitter</a></li>
                         <li><a href="#"><span class="fa fa-google-plus"></span> Gmail</a></li>
-                        <li><a href="#"><span class="fa fa-instagram"></span> Instagram</a></li>
                     </ul>
                 </div>
             </div>
@@ -70,36 +66,30 @@
     <!-- End Bnner Section -->
 
     <!-- About Section -->
-    <section class="about-section" style="background-image: url(website/images/background/1.jpg);">
+    <section class="about-us mt-5">
         <div class="auto-container">
-            <div class="row no-gutters">
-                <!-- Image Column -->
-                <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
-                        <div class="title-box wow fadeInLeft" data-wow-delay='1200ms'>
-                            <h2>ABOUT <br> US</h2>
-                        </div>
+            <div class="sec-title text-center">
+                <span class="float-text">About Us</span>
+                <h2>Who We Are</h2>
+            </div>
+            <div class="row">
+                <div class="news-block col-lg-4 col-md-12 col-sm-12">
+                    <div class="inner-box">
                         <div class="image-box">
-                            <figure class="alphabet-img wow fadeInRight"><img src="website/images/resource/b.png" alt=""></figure>
-                            <figure class="image wow fadeInRight" data-wow-delay='600ms'><img src="website/images/resource/team-3.jpg" alt=""></figure>
+                            <figure class="image"><img src="website/images/resource/shanice.jpg" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
+                        </div>
+                        <div class="caption-box">
+                            <h3><a href="#">Ms. Virginiah Shanice Kimenyi</a></h3>
+                            <h4>Managing Partner</h4>
                         </div>
                     </div>
                 </div>
-
-                <!-- Content Column -->
-                <div class="content-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column wow fadeInLeft">
-                        <div class="content-box">
-                            <div class="title">
-                                <h2>Ms. Virginiah Shanice  <br> Kimenyi</h2>
-                            </div>
-                            <div class="text">Our company has many years experience and specializes in manufacturing, salling, serviceing and repairing cardan shafts (cardans) for various vehicles, technological equipment, tractor, special machinery and agricultural machinery of verious domestic and foreign manufacturers. Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa earum, corporis consequatur illo enim atque eveniet ut iure ipsum sit quo similique amet ullam alias ratione, quod expedita inventore iste!</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn btn-style-one">About Us</a></div>
-                        </div>
-                    </div>
+                <div class="col-lg-8 col-md-12 col-sm-12">
+                    <p id="about-us-description">Ms. Kimenyi is the proprietor of the firm with over 14 years legal practice experience in Kenya having been trained both in India and Kenya. She has vast experience in Corporate Commercial law, Conveyancing, (Alternative) Dispute Resolution and Family Law. She has strived to build a successful law practice that offers comprehensive legal counsel and representation. Her expertise in Family Law matters is especially exceptional. She has contributed to the shaping of Children laws in Kenya.</p>
                 </div>
             </div>
-        </div>
+        </div> 
     </section>
     <!--End About Section -->
 
@@ -121,13 +111,12 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="website/images/resource/service-1.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="{{route('conveyancing')}}"><img src="website/images/resource/convey.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Conveyancing</a></h3>
-                                <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae cumque facilis, illum eos adipisci perspiciatis, est nisi, officiis delectus reprehenderit inventore mollitia soluta reiciendis odio! Nostrum inventore consectetur quos assumenda!</div>
+                                <h3><a href="{{route('conveyancing')}}">Conveyancing</a></h3>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="{{route('conveyancing')}}">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -137,13 +126,12 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="website/images/resource/service-2.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="{{route('commerciallaw')}}"><img src="website/images/resource/comercial.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Corporate-commercial Law</a></h3>
-                                <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde deleniti saepe numquam ipsa eum! Fuga, culpa. Nobis esse eaque, error earum vel ad blanditiis atque labore corrupti eius quaerat voluptatibus.</div>
+                                <h3><a href="{{route('commerciallaw')}}">Corporate-commercial Law</a></h3>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="{{route('commerciallaw')}}">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -153,13 +141,12 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="website/images/resource/service-3.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="{{route('dispute-resolution')}}"><img src="website/images/resource/dispute.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Dispute Resolution</a></h3>
-                                <div class="text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi recusandae debitis voluptas sequi, cum rerum atque mollitia, praesentium quod nulla fugit exercitationem vel autem laudantium quae eveniet natus voluptate. Vel.</div>
+                                <h3><a href="{{route('dispute-resolution')}}">Dispute Resolution</a></h3>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="{{route('dispute-resolution')}}">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -169,13 +156,12 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image"><a href="service-detail.html"><img src="website/images/resource/service-1.jpg" alt=""></a></figure>
+                                <figure class="image"><a href="{{route('family-law')}}"><img src="website/images/resource/fimilyy.jpg" alt=""></a></figure>
                             </div>
                             <div class="lower-content">
-                                <h3><a href="service-detail.html">Family Law & Estate Planning</a></h3>
-                                <div class="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi temporibus eius reprehenderit blanditiis consequuntur veritatis ducimus natus delectus, amet eaque fugit sint et consectetur laudantium unde itaque aspernatur eveniet accusantium.</div>
+                                <h3><a href="{{route('family-law')}}">Family Law & Estate Planning</a></h3>
                                 <div class="link-box">
-                                    <a href="service-detail.html">Learn More <i class="fa fa-long-arrow-right"></i></a>
+                                    <a href="{{route('family-law')}}">Learn More <i class="fa fa-long-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -195,7 +181,7 @@
                             <span class="float-text">testimonial</span>
                             <h2>What Client Says</h2>
                         </div>
-                        <div class="text">Looking at its layout. The point of using very profectly is that it has a more-or-less normal distribution of letters, as opposed</div>
+                        <div class="text">We are the best at what we do, and how do you know this? Well here is what Clients we've represented before have got to say.</div>
                     </div>
                 </div>
 
@@ -206,11 +192,11 @@
                             <!-- Testimonial Block -->
                             <div class="testimonial-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><img src="website/images/resource/thumb-1.jpg" alt=""></div>
+                                    <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
                                         <h4 class="name">Jane Smith</h4>
-                                        <span class="designation">CEO, InDesign</span>
+                                        <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
                             </div>
@@ -218,11 +204,11 @@
                             <!-- Testimonial Block -->
                             <div class="testimonial-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><img src="website/images/resource/thumb-1.jpg" alt=""></div>
+                                    <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
                                         <h4 class="name">Jane Smith</h4>
-                                        <span class="designation">CEO, InDesign</span>
+                                        <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
                             </div>
@@ -230,11 +216,11 @@
                             <!-- Testimonial Block -->
                             <div class="testimonial-block">
                                 <div class="inner-box">
-                                    <div class="image-box"><img src="website/images/resource/thumb-1.jpg" alt=""></div>
+                                    <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
-                                        <h4 class="name">Jane Smith</h4>
-                                        <span class="designation">CEO, InDesign</span>
+                                        <h4 class="name">Jane Doe</h4>
+                                        <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
                             </div>
@@ -244,118 +230,69 @@
             </div>
         </section>
         <!--End Testimonial Section -->
-<!-- News Section -->
-<section class="news-section alternate">
-    <div class="auto-container">
-        <div class="sec-title">
-            <span class="float-text">Blogs</span>
-            <h2>Updates & Media</h2>
-        </div>
-        <div class="row">
-            <!-- News Block -->
-            <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="website/images/resource/news-4.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
-                    </div>
-                    <div class="caption-box">
-                        <div class="inner">
-                            <h3><a href="blog-detail.html">In Good Taste: Mark Finlay Architects & Interiors.</a></h3>
+           <!-- News Section -->
+    <section class="news-section">
+        <div class="auto-container">
+            <div class="sec-title">
+                <span class="float-text">Blogs</span>
+                <h2>Updates & Media</h2>
+            </div>
+            <div class="row">
+                <!-- News Block -->
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
+                        </div>
+                        <div class="caption-box">
+                            <h3><a href="#">New Laws on Children Adoption.</a></h3>
                             <ul class="info">
-                                <li>06 June 2018,</li>
-                                <li><a href="blog-detail-2.html">John Smith</a></li>
-                                <li><a href="blog-detail-2.html">3 Commets</a></li>
+                                <li>06 January 2022,</li>
+                                <li>Cindy Amuka</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- News Block -->
-            <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="website/images/resource/news-5.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
-                    </div>
-                    <div class="caption-box">
-                        <div class="inner">
-                            <h3><a href="blog-detail.html">The Lexury Apartment of sepcial interiors.</a></h3>
+                <!-- News Block -->
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
+                        </div>
+                        <div class="caption-box">
+                            <h3><a href="#">The Company Registration Act.</a></h3>
                             <ul class="info">
-                                <li>06 June 2018,</li>
-                                <li><a href="blog-detail-2.html">John Smith</a></li>
-                                <li><a href="blog-detail-2.html">3 Commets</a></li>
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <!-- News Block -->
-            <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="website/images/resource/news-6.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
-                    </div>
-                    <div class="caption-box">
-                        <div class="inner">
-                            <h3><a href="blog-detail.html">6 Easy Ways to Create a Backyard Paradise.</a></h3>
-                            <ul class="info">
-                                <li>06 June 2018,</li>
-                                <li><a href="blog-detail-2.html">John Smith</a></li>
-                                <li><a href="blog-detail-2.html">3 Commets</a></li>
-                            </ul>
+                <!-- News Block -->
+                <div class="news-block col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box">
+                        <div class="image-box">
+                            <figure class="image"><img src="website/images/resource/news11.png" alt=""></figure>
+                            <div class="overlay-box"><a href="#"><i class="fa fa-link"></i></a></div>
                         </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- News Block -->
-            <div class="news-block-two col-lg-6 col-md-12 col-sm-12">
-                <div class="inner-box">
-                    <div class="image-box">
-                        <figure class="image"><img src="website/images/resource/news-7.jpg" alt=""></figure>
-                        <div class="overlay-box"><a href="blog-detail.html"><i class="fa fa-link"></i></a></div>
-                    </div>
-                    <div class="caption-box">
-                        <div class="inner">
-                            <h3><a href="blog-detail.html">The Business metting room interior in the rank.</a></h3>
+                        <div class="caption-box">
+                            <h3><a href="#">Advantages of Resolving Cases out of Court.</a></h3>
                             <ul class="info">
-                                <li>06 June 2018,</li>
-                                <li><a href="blog-detail-2.html">John Smith</a></li>
-                                <li><a href="blog-detail-2.html">3 Commets</a></li>
+                                <li>02 February 2022,</li>
+                                <li>Cindy Amuka</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<!--End News Section -->
- <!--Clients Section-->
- <section class="clients-section">
-    <div class="inner-container">
-        <div class="sponsors-outer">
-            <!--Sponsors Carousel-->
-            <ul class="sponsors-carousel owl-carousel owl-theme">
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/1.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/2.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/3.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/4.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/5.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/1.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/2.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/3.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/4.png" alt=""></a></figure></li>
-                <li class="slide-item"><figure class="image-box"><a href="#"><img src="website/images/clients/5.png" alt=""></a></figure></li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!--End Clients Section-->
+    </section>
+    <!--End News Section -->
+
  
 
     

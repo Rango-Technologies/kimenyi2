@@ -10,7 +10,7 @@
 
 @section('content')
      <!--Page Title-->
-     <section class="page-title" style="background-image:url(website/images/background/10.jpg);">
+     <section class="page-title" style="background-image:url(website/images/background/11.jpg);">
         <div class="auto-container">
             <div class="inner-container clearfix">
                 <div class="title-box">
