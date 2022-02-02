@@ -195,7 +195,7 @@
                                     <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
-                                        <h4 class="name">Jane Smith</h4>
+                                        <h4 class="name">Muna Robi</h4>
                                         <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
@@ -207,7 +207,7 @@
                                     <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
-                                        <h4 class="name">Jane Smith</h4>
+                                        <h4 class="name">Muna Robi</h4>
                                         <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
@@ -219,7 +219,7 @@
                                     <div class="image-box"><img src="website/images/resource/client.png" alt=""></div>
                                     <div class="text">A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot.</div>
                                     <div class="info-box">
-                                        <h4 class="name">Jane Doe</h4>
+                                        <h4 class="name">Muna Robi</h4>
                                         <span class="designation">CEO, Rango Technologies</span>
                                     </div>
                                 </div>
