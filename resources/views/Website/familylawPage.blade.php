@@ -79,7 +79,7 @@
                             <div class="inner">
                                 <span class="title">Quick Contact</span>
                                 <h2>Get Solution</h2>
-                                <div class="text">Contact us at the Interior office nearest to you or submit a business inquiry online.</div>
+                                <div class="text">Would You Want Our services on matters Family law & Estate Planning?</div>
                                 <a class="theme-btn btn-style-three" href="contact.html">Contact</a>
                             </div>
                         </div>
